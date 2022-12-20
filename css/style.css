@@ -1,7 +1,9 @@
-
+nav{
+    margin-bottom: 22px;
+}
 .logo{
     margin-top: 18px;
-    margin-right: 92px;
+    margin-right: 297px;
     margin-bottom: 17px;
     margin-left: 20px;
     vertical-align: middle;
@@ -39,6 +41,50 @@
 }
 /* end heafer*/
 .section-div{
-    width: 1160px;
+    width: 1208px;
+    margin: 0 auto;
+  
+}
+.section-h2{
+    font-size: 24px;
+    padding-bottom: 42px;
+    
+}
+.section-img-div{
+    position: relative;
+    display: inline-block;
+    width: 360px; 
+    margin-right: 40px;
+}
+.section-img{
+    padding-bottom: 66px;
+}
+.text-img1{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+}
+.section-div2-h3{
+    color: #A6ADB4;
+    width: 100%;
+    padding-right: 40px;
+    padding-bottom: 11px;
+    padding-left: 40px;
+    display: inline-block;
+}
+.time-img{
+   padding-bottom: 40px;
+   padding-left: 39px;
+   vertical-align: middle;
+}
+.time-text{
+    color: #A6ADB4;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 40px;
+
+    
 }
 

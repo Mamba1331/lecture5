@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('../fonts/AcuminPro-Medium.eot');
+    src: url('../fonts/AcuminPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AcuminPro-Medium.woff2') format('woff2'),
+        url('../fonts/AcuminPro-Medium.woff') format('woff'),
+        url('../fonts/AcuminPro-Medium.ttf') format('truetype'),
+        url('../fonts/AcuminPro-Medium.svg#AcuminPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

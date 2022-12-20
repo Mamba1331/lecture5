@@ -1,0 +1,44 @@
+
+.logo{
+    margin-top: 18px;
+    margin-right: 92px;
+    margin-bottom: 17px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+.nav-ul{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li-a1{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 22px;
+    color: #343638;
+}
+.nav-li-a2{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 22px;
+    color: #707070;
+}
+.nav-li-a3{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 22px;
+    color: #707070;
+}
+.nav-li-a4{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 40px;
+    color: #707070;
+}
+.nav-human-img{
+    vertical-align: middle;
+}
+/* end heafer*/
+.section-div{
+    width: 1160px;
+}
+

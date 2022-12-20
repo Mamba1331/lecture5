@@ -1,5 +1,15 @@
-nav{
-    margin-bottom: 22px;
+header{
+    padding-bottom: 22px;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    width: 100%;
+}
+.section-1{
+     margin-top: 72px;
+}
+body{
+    height: 2000px;
 }
 .logo{
     margin-top: 18px;
@@ -39,16 +49,14 @@ nav{
 .nav-human-img{
     vertical-align: middle;
 }
-/* end heafer*/
+/* end header*/
 .section-div{
     width: 1208px;
-    margin: 0 auto;
-  
+    margin: 0 auto;  
 }
 .section-h2{
     font-size: 24px;
-    padding-bottom: 42px;
-    
+    padding-bottom: 42px;  
 }
 .section-img-div{
     position: relative;
@@ -87,4 +95,5 @@ nav{
 
     
 }
+/* end first section */
 

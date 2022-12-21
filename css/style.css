@@ -7,9 +7,8 @@ header{
 }
 .section-1{
      margin-top: 72px;
-}
-body{
-    height: 2000px;
+     margin-bottom: 60px;
+    
 }
 .logo{
     margin-top: 18px;
@@ -92,8 +91,54 @@ body{
     display: inline-block;
     vertical-align: middle;
     padding-bottom: 40px;
-
-    
 }
 /* end first section */
+.section-secont-div{
+    width: 1208px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.section2-h2-maintitle{
+    font-size: 24px;
+    color: #202124;
+    margin-bottom: 40px;
+}
+.section-bigimg-div{
+    display: inline-block;
+    width: 762px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    vertical-align: top;
+}
+.img-text{
+    position: relative;
+    margin-bottom: 40px;
+}
+.image-text-center{
+    position: absolute;
+    color: #FFFFFF;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.right-image-div{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.right-image1{
+    display: block;
+    padding-bottom: 102px;
+}
+.right-image2{
+    display: block;
+    padding-bottom: 102px;
+}
+.right-image3{
+    display: block;
+}
+/*end section*/
+   
+
+
 

@@ -138,6 +138,32 @@ header{
     display: block;
 }
 /*end section*/
+.footer-div{
+    background-color: #A6ADB4;
+    width: 1920px;
+    height: 200px;
+}
+a{
+    color: #707070;
+}
+.footer-div-ul{
+    width: 600px;
+    height: 90;
+    padding-top: 54px;
+    padding-right: 104px;
+    padding-bottom: 60px;
+    padding-left: 142px;
+}
+.footer-a-logo{
+   
+}
+.footer-li1{
+   
+    
+}
+.footer-ul1{
+
+}
    
 
 

@@ -8,7 +8,6 @@ header{
 .section-1{
      margin-top: 72px;
      margin-bottom: 60px;
-    
 }
 .logo{
     margin-top: 18px;
@@ -190,7 +189,9 @@ a{
 .social-img{
     padding-left:35px ;
 }
-
+[class*="col-"] {
+    width: 100%;
+  }
    
     
 
